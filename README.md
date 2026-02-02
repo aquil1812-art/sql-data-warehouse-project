@@ -7,7 +7,8 @@ The project demonstrates how raw data can be transformed into clean, business-re
 
 ---
 
-## 🏗️ Data Architecture
+## 🏗️ Data Architecture<img width="1597" height="1079" alt="Screenshot 2026-02-02 201502" src="https://github.com/user-attachments/assets/7af5d4df-3ab4-4908-b0a9-ea5259369416" />
+
 
 
 This project follows the **Medallion Architecture** approach, consisting of **Bronze**, **Silver**, and **Gold** layers. This layered design ensures scalability, data quality, and efficient analytics.

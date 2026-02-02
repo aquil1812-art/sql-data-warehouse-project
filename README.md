@@ -8,7 +8,7 @@ The project demonstrates how raw data can be transformed into clean, business-re
 ---
 
 ## 🏗️ Data Architecture
-![image alt]([image_url](https://github.com/aquil1812-art/sql-data-warehouse-project/blob/335bc1db88aecb185b7e91598c80d1e7f823e4c4/Screenshot%202026-02-02%20201538.png))
+
 
 This project follows the **Medallion Architecture** approach, consisting of **Bronze**, **Silver**, and **Gold** layers. This layered design ensures scalability, data quality, and efficient analytics.
 
